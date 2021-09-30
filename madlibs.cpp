@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int cool()
+int main()
 {
     string color, plural, person;
 
